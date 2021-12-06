@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="argentina">Флаг Аргентины</string>
+    <string name="brasilia">Флаг Бразилии</string>
+    <string name="chili">Флаг Чили</string>
+    <string name="columbia">Флаг Колумбии</string>
+    <string name="urugvai">Флаг Уругвая</string>
+    <string name="image_view_content_description">Флаг какой то страны</string>
+</resources>
